@@ -33,6 +33,7 @@ const Contact = () => {
             border-slate-700
             bg-slate-900/60
             backdrop-blur-xl
+            max-[420px]:p-6
             p-10
             lg:p-16
           "
