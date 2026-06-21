@@ -2,17 +2,17 @@ export const experience = [
   {
     year: "2025 - Present",
     title: "Lead UI Engineer",
-    company: "Freelancer ",
+    company: "Freelancer",
     description:
-      "Leading frontend architecture, mentoring developers, implementing scalable React solutions.",
+      "Leading frontend initiatives, mentoring developers, and delivering scalable React applications while ensuring high-quality UI standards and performance optimization.",
   },
 
   {
     year: "2023 - 2025",
     title: "UI Team Lead",
-    company: "SKAD IT Solutions",
+    company: "Skad IT Solutions",
     description:
-      "Managed UI team, code reviews, sprint planning, and enterprise product delivery.",
+      "Led a UI development team, conducted code reviews, coordinated sprint planning, and successfully delivered enterprise-grade web applications.",
   },
 
   {
@@ -20,6 +20,6 @@ export const experience = [
     title: "UI Developer",
     company: "Eorchids Tech Solutions",
     description:
-      "Built responsive web applications and optimized application performance.",
+      "Developed responsive and accessible web applications using HTML, CSS, JavaScript, and modern frontend frameworks while improving performance and user experience.",
   },
 ];

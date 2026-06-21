@@ -4,7 +4,9 @@ const Skills = () => {
   return (
     <section id="skills" className="section py-20">
       <Container>
-        <h2 className="text-4xl font-bold mb-12">Skills & Expertise</h2>
+        <h2 className="text-4xl md:text-5xl font-bold text-center mb-20">
+          Skills & Expertise
+        </h2>
 
         <div className="grid md:grid-cols-2 gap-8">
           {skillCategories.map((group) => (

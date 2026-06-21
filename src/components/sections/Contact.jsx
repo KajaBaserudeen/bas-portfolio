@@ -69,9 +69,7 @@ const Contact = () => {
 
               <h2
                 className="
-                text-4xl
-                lg:text-5xl
-                font-bold
+                text-4xl md:text-5xl font-bold
                 mb-6
               "
               >
@@ -85,7 +83,6 @@ const Contact = () => {
                 className="
                 text-slate-400
                 text-lg
-                leading-relaxed
                 max-w-xl
               "
               >

@@ -1,4 +1,4 @@
-import imageEnterprise from "../assets/images/project-enterprise.png";
+import imageEnterprise from "../assets/images/project-enterprise.jpg";
 import imageLeadership from "../assets/images/project-leadership.jpg";
 import imagePagebuilder from "../assets/images/project-pagebuilder.jpg";
 export const projects = [
