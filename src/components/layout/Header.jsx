@@ -68,8 +68,8 @@ const Header = () => {
             {/* <ThemeToggle /> */}
 
             <a
-              href="/resume.pdf"
-              download="Kaja-Baserudeen-Lead-UI-Engineer-Resume.pdf"
+              href="/Kaja-Baserudeen-Lead-UI-Engineer-Resume.pdf"
+              download
               className="
                 px-5
                 py-2
