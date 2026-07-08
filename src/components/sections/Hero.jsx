@@ -48,8 +48,8 @@ const Hero = () => {
               </a>
 
               <a
-                href="/resume.pdf"
-                download="Kaja-Baserudeen-Lead-UI-Engineer-Resume.pdf"
+                href="/Kaja-Baserudeen-Lead-UI-Engineer-Resume.pdf"
+                download
                 className="px-6 py-3 rounded-lg border border-accent flex items-center gap-2"
               >
                 <FaDownload />

@@ -96,7 +96,7 @@ const Contact = () => {
 
             <div className="space-y-5">
               <a
-                href="creativeui360@gmail.com"
+                href="mailto:creativeui360@gmail.com"
                 className="
                   flex
                   items-center
@@ -212,8 +212,8 @@ const Contact = () => {
                 </a>
 
                 <a
-                  href="/resume.pdf"
-                  download="Kaja-Baserudeen-Lead-UI-Engineer-Resume.pdf"
+                  href="/Kaja-Baserudeen-Lead-UI-Engineer-Resume.pdf"
+                  download
                   className="
                     flex
                     items-center
