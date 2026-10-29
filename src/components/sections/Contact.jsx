@@ -120,7 +120,7 @@ const Contact = () => {
               </a>
 
               <a
-                href="tel:+918122123561"
+                href="tel:+971542811568"
                 className="
                   flex
                   items-center
@@ -139,7 +139,7 @@ const Contact = () => {
                 <div>
                   <p className="text-sm text-slate-400">Phone</p>
 
-                  <p className="font-medium">+91 81221 23561</p>
+                  <p className="font-medium">+971 54 28 11 568</p>
                 </div>
               </a>
 
